@@ -1,2 +1,1 @@
-# rsschool-cv
-# rsschool-cv
+https://savr08.github.io/rsschool-cv/cv
