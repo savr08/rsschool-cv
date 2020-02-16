@@ -3,7 +3,7 @@ Address: Elista, Basangova street 2A, 12 sq.
 Phone: +79374657934
 e-mail: savrledzenov@gmail.com. 
 
-**Goal**: getting a Front-End developer position.
+**Goal**: ***Getting a Front-End developer position.***
 
 
 **Professional skill**:
@@ -11,7 +11,7 @@ e-mail: savrledzenov@gmail.com.
 
 Basic knowledge of JavaScript, CSS, HTML, Python
 Drawing up a technical task and coordinating it with the customer.
-Average level of technical English.
+Average level of technical English
 
 
 **Education**: 2019-... 
